@@ -4,6 +4,8 @@
 
 Escolhi meu perfil do LinkedIn e do GitHub para analisar e documentar minhas habilidades, experiências e aprendizados de forma estruturada.
 
+<img src="URL_da_Imagem" alt="Perfil no LinkedIn">
+
 ### Perfil no LinkedIn
 - **Nome:** Roberta Nascimento  
 - **Profissão:** Designer & Developer (UX/UI, Design Gráfico)  
@@ -12,6 +14,8 @@ Escolhi meu perfil do LinkedIn e do GitHub para analisar e documentar minhas hab
 - **Conexões:** 416  
 - **Objetivo:** Buscando emprego como Estagiária de Design, UX Designer, UI Designer ou Estagiária de TI  
 - **Educação:** Universidade Católica de Pernambuco  
+
+<img src="URL_da_Imagem" alt="Perfil no GitHub">
 
 ### Perfil no GitHub
 - **Nome de usuário:** zurannii  
